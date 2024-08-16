@@ -1559,9 +1559,4 @@ document.onkeydown = function(e) {
 window.onload = function() {
     alert('هذا الموقع مخصص فقط للاستخدام الشخصي، يرجى عدم محاولة نسخ أو عرض الكود المصدر.......  يرجى التواصل مع ركاب عبدالقادر رقم الهاتف 78 60 65 0552');
 };
-document.addEventListener("DOMContentLoaded", function() {
-    var distanceButton = document.getElementById('distance_button');
-    distanceButton.addEventListener('click', function() {
-        window.location.href = 'https://rayendz.github.io/Passwored/Distance/index.html';
-    });
-});
+
