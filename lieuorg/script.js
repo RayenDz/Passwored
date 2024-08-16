@@ -1562,6 +1562,6 @@ window.onload = function() {
 document.addEventListener("DOMContentLoaded", function() {
     var distanceButton = document.getElementById('distance_button');
     distanceButton.addEventListener('click', function() {
-        window.location.href = 'https://rayendz.github.io/DistanceLieu/';
+        window.location.href = 'https://rayendz.github.io/Passwored/lieuorg/index.html';
     });
 });
